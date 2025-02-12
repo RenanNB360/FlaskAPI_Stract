@@ -42,6 +42,6 @@ class APIClient:
 
 
 API_BASE_URL = 'https://sidebar.stract.to/api'
-API_TOKEN = 'ProcessoSeletivoStract2025'
+API_TOKEN = 'TOKEN-API'
 
 api_client = APIClient(API_BASE_URL, API_TOKEN)

@@ -1,0 +1,68 @@
+# Ignorar arquivos de ambiente virtual
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar arquivos de configuração do VS Code
+.vscode/
+
+# Ignorar arquivos de configuração do PyCharm
+.idea/
+*.iml
+
+# Ignorar arquivos de dependências do Poetry
+.poetry/
+.poetry.lock
+
+# Ignorar arquivos de cache do pip
+pip-wheel-metadata/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Ignorar arquivos de teste e cobertura
+.coverage
+htmlcov/
+.pytest_cache/
+.coverage.*
+*.cover
+*.py,cover
+
+# Ignorar arquivos de log
+*.log
+logs/
+
+# Ignorar arquivos de banco de dados SQLite
+*.sqlite3
+*.db
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração local
+local_settings.py
+settings_local.py
+
+# Ignorar arquivos de cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de cache do Poetry
+.poetry/
+.poetry.lock
+
+# Ignorar arquivos de cache do pipenv
+Pipfile.lock

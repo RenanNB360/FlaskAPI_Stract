@@ -8,7 +8,7 @@
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/stract.git
+git clone https://github.com/RenanNB360/FlaskAPI_Stract.git
 cd stract
 ```
 
